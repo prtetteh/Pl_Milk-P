@@ -3,5 +3,4 @@ pandas
 numpy
 matplotlib
 plotly
-from statsmodels.tsa.holtwinters import SimpleExpSmoothing
-from sklearn.model_selection import train_test_split
+
